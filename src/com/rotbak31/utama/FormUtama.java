@@ -7,7 +7,6 @@
 package com.rotbak31.utama;
 
 import com.rotbak31.koneksi.Koneksi;
-import java.awt.Dimension;
 import java.awt.event.KeyEvent;
 import java.io.InputStream;
 import java.sql.Connection;
@@ -16,7 +15,6 @@ import java.sql.Statement;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.HashMap;
-import javax.swing.JInternalFrame;
 import javax.swing.JOptionPane;
 import javax.swing.JTextField;
 import javax.swing.table.DefaultTableModel;
