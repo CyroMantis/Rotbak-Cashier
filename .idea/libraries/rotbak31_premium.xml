@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="rotbak31_premium">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/rotbak31_premium.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
