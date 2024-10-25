@@ -6,7 +6,7 @@ Cara buka project:
 3. Masukkan Database ke dalam PHPMyAdmin
 4. Jalankan Program
 
-#View
+# View
 Login 
 
 ![Login](https://github.com/user-attachments/assets/16ed8626-9c52-41bb-b10e-6eb3a4cde2d6)
